@@ -13,7 +13,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chencn2020&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg) -->
 
+![chencn2020's GitHub stats](https://github-readme-stats.vercel.app/api?username=chencn2020&count_private=true&show_icons=true&theme=dracula+)
+
 ### :dart: Weekly Fuck The Code
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7cd468a1-a93e-45cc-9bd2-0b89cfd45849)](https://github.com/anuraghazra/github-readme-stats)
 
-![chencn2020's GitHub stats](https://github-readme-stats.vercel.app/api?username=chencn2020&count_private=true&show_icons=true&theme=dracula+)

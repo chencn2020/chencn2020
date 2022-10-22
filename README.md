@@ -16,5 +16,5 @@
 ![chencn2020's GitHub stats](https://github-readme-stats.vercel.app/api?username=chencn2020&count_private=true&show_icons=true&theme=dracula+)
 
 ### :dart: Weekly Fuck The Code
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=48443dd4-bdd6-4c73-a7c0-b0a22342b83d)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7cd468a1-a93e-45cc-9bd2-0b89cfd45849)](https://github.com/anuraghazra/github-readme-stats)
 

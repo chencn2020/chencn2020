@@ -1,4 +1,4 @@
-## Hi Guys👋, I'm Zewen Chen
+## Hi Guys 👋 I'm Zewen Chen
 
 [![](https://img.shields.io/badge/Homepage-blue)](https://zwchen.top/)
 [![](https://img.shields.io/badge/Google%20Scholar-%20?logo=google-scholar&color=white)](**https://scholar.google.com.hk/citations?user=ozllxV4AAAAJ**)

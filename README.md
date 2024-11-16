@@ -15,7 +15,8 @@
 ### 🔥 My Research Repos
 - **Image Quality Assessment**
   - 🚀 [SEAGULL](https://github.com/chencn2020/Seagull)  ![GitHub Repo stars](https://img.shields.io/github/stars/chencn2020/Seagull?style=social)  ![GitHub forks](https://img.shields.io/github/forks/chencn2020/Seagull?style=social)
-  - 🧭 [PromptIQA (ECCV2024)](https://github.com/chencn2020/PromptIQA) ![GitHub Repo stars](https://img.shields.io/github/stars/chencn2020/PromptIQA?style=social)
+  - 🧭 [PromptIQA (ECCV2024)](https://github.com/chencn2020/PromptIQA) ![GitHub stars](https://img.shields.io/github/stars/chencn2020/PromptIQA?style=social) ![GitHub forks](https://img.shields.io/github/forks/chencn2020/PromptIQA?style=social)
+  - 🧑‍🏫 [TeacherIQA (ACCV2022)](https://github.com/chencn2020/TeacherIQA) ![GitHub stars](https://img.shields.io/github/stars/chencn2020/TeacherIQA?style=social) 
 
 ### 🗂 Others
 

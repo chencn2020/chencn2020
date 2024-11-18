@@ -7,7 +7,7 @@
     src="https://img.shields.io/github/stars/chencn2020?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
 </a>
 
-- 🌱 I’m currently learning Image Quality Assesement, Large Language Model and Difussion etc.
+- 🌱 I’m currently learning Image Quality Assesement, Large Language Model and Diffusion etc.
 - 📫 My email: chencn2018@163.com
 - 😄 Pronouns: Zevin
 - That's all for now.

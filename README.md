@@ -1,6 +1,6 @@
 ## Hi Guys 👋 I'm Zewen Chen
 
-[![](https://img.shields.io/badge/Homepage-blue)](https://zwchen.top/)
+[![](https://img.shields.io/badge/Homepage-white?style=flat&logo=homepage)](https://zwchen.top/)
 [![](https://img.shields.io/badge/Google%20Scholar-%20?logo=google-scholar&color=white)](**https://scholar.google.com.hk/citations?user=ozllxV4AAAAJ**)
 <a href="https://github.com/chencn2020">
 <img alt="github"
